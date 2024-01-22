@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T08:05:38.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.21" etag="0DAo1G2kxZ2rehRg3AoO" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T08:15:34.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AIyJW37is9vJr9UlV4Li" version="22.1.21" type="github">
   <diagram name="Page-1" id="Nm-2P0WLjtd5CQp8r9jT">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="85" width="290" height="505" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Catatan pengunjung perpus&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-3" value="Mengisi Buku Catatan Pengunjung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="180" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-4" value="Mencari Buku" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="280" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-5" value="Membaca Buku &lt;br&gt;Kunjungan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="380" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-6" value="Rekap Buku" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="480" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-7" value="Pustakawan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-8" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ra7ZowNmbXoZw4-EPmSf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="340" as="sourcePoint" />
+            <mxPoint x="270" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="Ra7ZowNmbXoZw4-EPmSf-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="340" as="sourcePoint" />
+            <mxPoint x="270" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ra7ZowNmbXoZw4-EPmSf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="390" as="sourcePoint" />
+            <mxPoint x="610" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ra7ZowNmbXoZw4-EPmSf-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ra7ZowNmbXoZw4-EPmSf-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="390" as="sourcePoint" />
+            <mxPoint x="610" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
