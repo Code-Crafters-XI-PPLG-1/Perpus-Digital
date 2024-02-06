@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T05:34:02.642Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="37czW5gXUK2lP6rquB-_" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T05:38:00.219Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="JR3Y5kOMc8r6lgg-1CX9" version="23.1.1" type="github">
   <diagram name="Page-1" id="bN3lPEn4lCgE2g_xVXKL">
     <mxGraphModel dx="1054" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="S9L_W-QpuushHEUrZ-Tb-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="S9L_W-QpuushHEUrZ-Tb-1" value="pengunjung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="80" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="S9L_W-QpuushHEUrZ-Tb-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="S9L_W-QpuushHEUrZ-Tb-2" value="pustakawan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="210" width="80" height="190" as="geometry" />
         </mxCell>
         <mxCell id="S9L_W-QpuushHEUrZ-Tb-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
